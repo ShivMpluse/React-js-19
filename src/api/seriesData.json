@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Lovely Runner",
+        "id": "Lovely Runner",
+        "img_url": "http://localhost:5173/image/10.webp",
+        "rating": 9.8,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her  , Ryu Sun Jae.",
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seeok", "Song Geon Hee"],
+        "genre": ["Romantic Comedy", "Fantasy"],
+        "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+    },
+    {
+        "name": "What's Wrong With Secretary",
+        "id": "What's Wrong With Secretary",
+        "img_url": "http://localhost:5173/image/Netflix-2.jpg",
+        "rating": 7.7,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her  , Ryu Sun Ja",
+        "cast": ["Park Seo Joon", "Park Min Young", "Lee Tae Hwan"],
+        "genre": ["Idol Drama", "Romantic Comedy"],
+        "watch_url": "https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim"
+    },
+    {
+        "name": "Healer",
+        "id": "Healer",
+        "img_url": "http://localhost:5173/image/Netflix-5.jpg",
+        "rating": 9.7,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her",
+        "cast": ["Ji Change Wook", "Park Min Young", "Yoo Ji Tae"],
+        "genre": ["Romantic Comedy", "Action Drama"],
+        "watch_url": "https://www.viki.com/tv/23730c-healer"
+    },
+    {
+        "name": "Whirlwind Girl 2",
+        "id": "Whirlwind Girl 2",
+        "img_url": "http://localhost:5173/image/Netflix-3.jpg",
+        "rating": 5.8,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her.",
+        "cast": ["Ji Change Wook", "Leo Woo", "Chen Xiamg"],
+        "genre": ["Idol Drama", "Romantic Comedy"],
+        "watch_url": "https://www.viki.com/tv/23730c-healer"
+    },
+    {
+        "name": "Whirlwind Girl 2",
+        "id": "Whirlwind Girl 2",
+        "img_url": "http://localhost:5173/image/Netflix-3.jpg",
+        "rating": 8.8,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her .",
+        "cast": ["Ji Change Wook", "Leo Woo", "Chen Xiamg"],
+        "genre": ["Idol Drama", "Romantic Comedy"],
+        "watch_url": "https://www.viki.com/tv/23730c-healer"
+    },
+    {
+        "name": "What's Wrong With Secretary",
+        "id": "What's Wrong With Secretary",
+        "img_url": "http://localhost:5173/image/Netflix-2.jpg",
+        "rating": 7.7,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her  , Ryu Sun Ja",
+        "cast": ["Park Seo Joon", "Park Min Young", "Lee Tae Hwan"],
+        "genre": ["Idol Drama", "Romantic Comedy"],
+        "watch_url": "https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim"
+    },
+    {
+        "name": "Whirlwind Girl 2",
+        "id": "Whirlwind Girl 2",
+        "img_url": "http://localhost:5173/image/Netflix-3.jpg",
+        "rating": 5.8,
+        "description": "Im Sol travels back in time to prevent the tragic fate of her.",
+        "cast": ["Ji Change Wook", "Leo Woo", "Chen Xiamg"],
+        "genre": ["Idol Drama", "Romantic Comedy"],
+        "watch_url": "https://www.viki.com/tv/23730c-healer"
+    }
+    
+]
